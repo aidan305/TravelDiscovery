@@ -1,0 +1,6 @@
+framework module Pods_TravelDiscoveryWithTests_TravelDiscoveryWithTestsUITests {
+  umbrella header "Pods-TravelDiscoveryWithTests-TravelDiscoveryWithTestsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
